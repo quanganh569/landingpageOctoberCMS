@@ -1,0 +1,6 @@
+plugin:
+    name: 'quanganhdo.database::lang.plugin.name'
+    description: 'quanganhdo.database::lang.plugin.description'
+    author: QuangAnhdo
+    icon: oc-icon-adjust
+    homepage: ''
